@@ -246,6 +246,16 @@ A través de la limpieza de datos, el modelado relacional, la creación de medid
 Los hallazgos permiten plantear preguntas y recomendaciones sobre la programación de consultas, la distribución de recursos y el análisis de ingresos. Estas propuestas deben validarse con información adicional antes de implementar cambios operativos.
 
 El proyecto integra habilidades técnicas de análisis de datos con la capacidad de interpretar resultados y comunicarlos a una audiencia ejecutiva.
+## 📊 Visualización del Dashboard
+
+### Dashboard principal
+
+![Dashboard principal de MedRed](medred-dashboard-principal.png)
+
+### Análisis de médicos
+
+![Análisis de médicos de MedRed](medred-analisis-medicos.png)
+![Análisis de médicos de MedRed](medred-analisis-medicos2.png)
 
 ## 👩‍💻 Autora
 Daniela Padilla Solera 
